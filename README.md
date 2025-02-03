@@ -15,7 +15,7 @@ ZOMATO.com/
 │── index.html         # Main homepage
 │── headerdivclick.html # Header section file
 │── main.css           # Stylesheet (Tailwind CSS)
-│── script.js          # JavaScript file (if needed)
+│── script.js          # JavaScript file
 │── tailwind.config.js # Tailwind configuration
 │── assets/            # Images and other assets
 ```
